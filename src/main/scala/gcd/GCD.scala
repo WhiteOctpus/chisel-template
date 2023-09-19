@@ -1,3 +1,4 @@
+// Chisel highlighting
 // See README.md for license details.
 
 package gcd
